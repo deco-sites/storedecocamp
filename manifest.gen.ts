@@ -30,6 +30,7 @@ import * as $$$$$$18 from "./sections/Content/RichText.tsx";
 import * as $$$$$$19 from "./sections/Content/Table.tsx";
 import * as $$$$$$20 from "./sections/Content/Testimonials.tsx";
 import * as $$$$$$21 from "./sections/Content/TextWithImage.tsx";
+import * as $$$$$$49 from "./sections/cupom.tsx";
 import * as $$$$$$22 from "./sections/Footer.tsx";
 import * as $$$$$$23 from "./sections/Footer/Footer.tsx";
 import * as $$$$$$24 from "./sections/Gallery.tsx";
@@ -88,6 +89,7 @@ const manifest = {
     "site/sections/Content/Table.tsx": $$$$$$19,
     "site/sections/Content/Testimonials.tsx": $$$$$$20,
     "site/sections/Content/TextWithImage.tsx": $$$$$$21,
+    "site/sections/cupom.tsx": $$$$$$49,
     "site/sections/Footer.tsx": $$$$$$22,
     "site/sections/Footer/Footer.tsx": $$$$$$23,
     "site/sections/Gallery.tsx": $$$$$$24,
